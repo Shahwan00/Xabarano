@@ -1,1 +1,54 @@
+body {
+    background-color: #f0f0f0;
+    font-family: Arial;
+    text-align: center;
+}
+
+h1 {
+    color: blue;
+}
+
+p {
+    color: green;
+    font-size: 20px;
+}
+button {
+    background-color: #2196f3;
+    color: white;
+    font-size: 20px;
+    padding: 12px 25px;
+    border: none;
+    border-radius: 12px;
+    cursor: pointer;
+    margin-top: 20px;
+}
+
+button:hover {
+    background-color: #1976d2;
+}
+button:hover{
+    background-color:#1976d2;
+}
+
+/* ألصق الكود الجديد هنا */
+
+.container{
+    width:350px;
+    margin:60px auto;
+    text-align:center;
+}
+
+input{
+    width:100%;
+    padding:12px;
+    margin:10px 0;
+    border:1px solid #ccc;
+    border-radius:8px;
+    font-size:16px;
+}
+
+body{
+    font-family:Arial,sans-serif;
+    background:#f5f5f5;
+}
 
